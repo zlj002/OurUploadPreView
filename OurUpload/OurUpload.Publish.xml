@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\Administrator\Desktop\test" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="01/12/2014 21:55:04" />
+    <file relUrl="OurUpload/images/fu_ppt.gif" publishTime="01/12/2014 20:30:38" />
+    <file relUrl="Scripts/jquery-1.7.1.min.js" publishTime="09/15/2013 14:20:04" />
+    <file relUrl="OurUpload/images/images.png" publishTime="01/12/2014 20:47:57" />
+    <file relUrl="OurUpload/images/fu_doc.gif" publishTime="01/12/2014 17:58:08" />
+    <file relUrl="bin/OurHelper.dll" publishTime="01/12/2014 20:30:53" />
+    <file relUrl="OurUpload/images/script_yellow.png" publishTime="01/12/2014 21:09:29" />
+    <file relUrl="OurUpload/images/export_excel.png" publishTime="01/12/2014 17:56:17" />
+    <file relUrl="OurUpload/images/loading.gif" publishTime="09/16/2013 15:01:48" />
+    <file relUrl="OurUpload/images/fujian.png" publishTime="09/16/2013 13:02:54" />
+    <file relUrl="bin/OurUpload.pdb" publishTime="01/12/2014 21:55:03" />
+    <file relUrl="Upload/SaveByUploadFileData.aspx" publishTime="09/15/2013 15:40:45" />
+    <file relUrl="OurUpload/images/fu_exl.gif" publishTime="01/12/2014 17:58:08" />
+    <file relUrl="bin/OurUpload.dll" publishTime="01/12/2014 21:55:03" />
+    <file relUrl="OurUpload/images/attach.png" publishTime="09/16/2013 15:21:56" />
+    <file relUrl="Scripts/ajaxfileupload.js" publishTime="09/15/2013 14:12:13" />
+    <file relUrl="OurUpload/jquery.OurUpload.js" publishTime="01/12/2014 21:12:21" />
+    <file relUrl="bin/OurHelper.pdb" publishTime="01/12/2014 20:30:52" />
+    <file relUrl="OurUpload/images/fu_txt.gif" publishTime="01/12/2014 21:07:00" />
+    <file relUrl="OurUpload/Style/OurUpload.css" publishTime="01/12/2014 21:10:07" />
+    <file relUrl="Global.asax" publishTime="09/15/2013 13:51:22" />
+    <file relUrl="UploadSimpleFile.aspx" publishTime="09/17/2013 16:24:45" />
+    <file relUrl="OurUpload/images/i.p.delete.gif" publishTime="09/15/2013 22:50:18" />
+  </publishProfile>
+</publishData>

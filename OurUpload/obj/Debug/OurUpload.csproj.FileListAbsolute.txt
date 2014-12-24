@@ -1,0 +1,14 @@
+E:\workspace\OurUpload\OurUpload\bin\OurUpload.dll
+E:\workspace\OurUpload\OurUpload\bin\OurUpload.pdb
+E:\workspace\OurUpload\OurUpload\obj\Debug\OurUpload.dll
+E:\workspace\OurUpload\OurUpload\obj\Debug\OurUpload.pdb
+E:\workspace\OurUpload\OurUpload\bin\OurHelper.dll
+E:\workspace\OurUpload\OurUpload\bin\OurHelper.pdb
+E:\workspace\OurUpload\OurUpload\obj\Debug\OurUpload.csprojResolveAssemblyReference.cache
+E:\workspace\OurUploadPreView\OurUpload\bin\OurUpload.dll
+E:\workspace\OurUploadPreView\OurUpload\bin\OurUpload.pdb
+E:\workspace\OurUploadPreView\OurUpload\bin\OurHelper.dll
+E:\workspace\OurUploadPreView\OurUpload\bin\OurHelper.pdb
+E:\workspace\OurUploadPreView\OurUpload\obj\Debug\OurUpload.csprojResolveAssemblyReference.cache
+E:\workspace\OurUploadPreView\OurUpload\obj\Debug\OurUpload.dll
+E:\workspace\OurUploadPreView\OurUpload\obj\Debug\OurUpload.pdb
