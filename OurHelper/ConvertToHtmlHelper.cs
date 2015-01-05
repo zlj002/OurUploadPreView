@@ -34,7 +34,7 @@ namespace OurHelper
 
 
             StringBuilder sb = new StringBuilder();
-            sb.Append("<style type=\"text/css\">");
+            sb.Append("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=yes\"><style type=\"text/css\">");
             sb.Append("BODY");
             sb.Append("{");
             sb.Append("scrollbar-face-color: #e8e7e7;");

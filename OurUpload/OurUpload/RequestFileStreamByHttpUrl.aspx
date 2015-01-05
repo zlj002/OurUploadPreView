@@ -14,7 +14,7 @@
         }
 
         function ViewWindow() {
-            $("#modal-Window").click();
+            $("#modal-Window").click(); 
         }
         $(function () {
             $("#win").height($(window).height() - 151);
@@ -22,7 +22,7 @@
                 //高度
                 $("#win").height($(window).height() - 151);
             });
-             
+            $("#win").contents().width($(window).width());
         });
         
     </script>

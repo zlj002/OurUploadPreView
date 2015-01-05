@@ -91,7 +91,8 @@ namespace OurUpload.OurUpload
                         if (File.Exists(MapPath(willHtml)))//生成之前检查是否已经转换过
                         {
                             downloadBtn.NavigateUrl = rawFileUrl;
-                            win.Attributes["src"] = willHtml;
+                            //win.Attributes["src"] = willHtml;
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "OurPreview", "window.location.href='" + willHtml + "'", true);
                         }
                         else
                         {
@@ -124,7 +125,10 @@ namespace OurUpload.OurUpload
 
 
                             downloadBtn.NavigateUrl = rawFileUrl;
-                            win.Attributes["src"] = willHtml;
+                            //win.Attributes["src"] = willHtml;
+                            //ScriptManager.RegisterStartupScript(this, this.GetType(), "OurPreview", "ViewWindow();$('#loading-mask').fadeOut();", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "OurPreview", "window.location.href='" + willHtml + "'", true);
+
                         }
 
                     }
@@ -138,7 +142,8 @@ namespace OurUpload.OurUpload
                         if (File.Exists(MapPath(willHtml)))//生成之前检查是否已经转换过
                         {
                             downloadBtn.NavigateUrl = rawFileUrl;
-                            win.Attributes["src"] = willHtml;
+                            //win.Attributes["src"] = willHtml;
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "OurPreview", "window.location.href='" + willHtml + "'", true);
                         }
                         else
                         {
@@ -172,7 +177,9 @@ namespace OurUpload.OurUpload
                                 default: break;
                             }
                             downloadBtn.NavigateUrl = rawFileUrl;
-                            win.Attributes["src"] = willHtml;
+                            //win.Attributes["src"] = willHtml;
+                            //ScriptManager.RegisterStartupScript(this, this.GetType(), "OurPreview", "ViewWindow();$('#loading-mask').fadeOut();", true);
+                            ScriptManager.RegisterStartupScript(this, this.GetType(), "OurPreview", "window.location.href='" + willHtml + "'", true);
                         }
 
 

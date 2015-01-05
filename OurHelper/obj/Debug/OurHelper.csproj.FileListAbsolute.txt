@@ -9,3 +9,8 @@ E:\workspace\OurUploadPreView\OurHelper\bin\Debug\OurHelper.pdb
 E:\workspace\OurUploadPreView\OurHelper\obj\Debug\OurHelper.csproj.ResolveComReference.cache
 E:\workspace\OurUploadPreView\OurHelper\obj\Debug\OurHelper.dll
 E:\workspace\OurUploadPreView\OurHelper\obj\Debug\OurHelper.pdb
+E:\gitworkspace\OurUploadPreView\OurHelper\bin\Debug\OurHelper.dll
+E:\gitworkspace\OurUploadPreView\OurHelper\bin\Debug\OurHelper.pdb
+E:\gitworkspace\OurUploadPreView\OurHelper\obj\Debug\OurHelper.csproj.ResolveComReference.cache
+E:\gitworkspace\OurUploadPreView\OurHelper\obj\Debug\OurHelper.dll
+E:\gitworkspace\OurUploadPreView\OurHelper\obj\Debug\OurHelper.pdb

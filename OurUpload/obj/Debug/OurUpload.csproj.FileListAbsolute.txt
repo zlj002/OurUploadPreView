@@ -12,3 +12,10 @@ E:\workspace\OurUploadPreView\OurUpload\bin\OurHelper.pdb
 E:\workspace\OurUploadPreView\OurUpload\obj\Debug\OurUpload.csprojResolveAssemblyReference.cache
 E:\workspace\OurUploadPreView\OurUpload\obj\Debug\OurUpload.dll
 E:\workspace\OurUploadPreView\OurUpload\obj\Debug\OurUpload.pdb
+E:\gitworkspace\OurUploadPreView\OurUpload\bin\OurUpload.dll
+E:\gitworkspace\OurUploadPreView\OurUpload\bin\OurUpload.pdb
+E:\gitworkspace\OurUploadPreView\OurUpload\bin\OurHelper.dll
+E:\gitworkspace\OurUploadPreView\OurUpload\bin\OurHelper.pdb
+E:\gitworkspace\OurUploadPreView\OurUpload\obj\Debug\OurUpload.csprojResolveAssemblyReference.cache
+E:\gitworkspace\OurUploadPreView\OurUpload\obj\Debug\OurUpload.dll
+E:\gitworkspace\OurUploadPreView\OurUpload\obj\Debug\OurUpload.pdb
